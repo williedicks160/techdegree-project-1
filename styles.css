@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/om.jpg') no-repeat top center ;
+  background: url('images/rsz_om.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid blue;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -202,5 +202,15 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+
+  .exp {
+
+      text-align: center;
+      background: url('images/kids.jpg') no-repeat top center ;
+      background-size: cover;
+      overflow: hidden;
+      padding-top: 60px;
+    }
+
 
 }
